@@ -1,23 +1,24 @@
 h1 {
   text-align: center;
   font-size: 100px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
   text-shadow: 20px 10px 5px lightgrey;
 }
 
 .align-center {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
   text-align: center;
   font-style: italic;
   text-shadow: 20px 10px 5px grey;
-  padding-bottom: 10px;
 }
 
 header button {
   background-color: black;
   color: white;
   border-radius: 20px;
-  transition: all .5s;
+  transition: all 0.5s;
   background-color: black;
   color: white;
   padding-right: 50px;
@@ -26,5 +27,5 @@ header button {
 
 button:hover {
   background-color: white;
-  color: black
+  color: black;
 }
