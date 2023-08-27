@@ -1,8 +1,13 @@
 h1 {
   text-align: center;
   font-size: 100px;
+<<<<<<< Updated upstream
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-shadow: 20px 10px 5px lightgrey;
+=======
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+>>>>>>> Stashed changes
 }
 
 .align-center {
