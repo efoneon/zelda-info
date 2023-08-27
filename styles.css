@@ -1,4 +1,4 @@
-h1 {
+header h1 {
   text-align: center;
   font-size: 100px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -11,8 +11,19 @@ h1 {
     'Lucida Sans', Arial, sans-serif;
   text-align: center;
   font-style: italic;
-  text-shadow: 20px 10px 5px grey;
+  text-shadow: 20px 10px 5px white;
   padding-bottom: 10px;
+}
+
+.align-center-2 {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  padding: 10px 0px 10px 0px;
+}
+
+header {
+  border-bottom: 20px solid white;
 }
 
 header button {
@@ -50,4 +61,24 @@ button:hover {
 
 .character-item img {
   max-width: 100%;
+}
+
+section h1 {
+  text-align: center;
+  color: darkblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+section p {
+  text-shadow: 20px 10px 5px white;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
 }
